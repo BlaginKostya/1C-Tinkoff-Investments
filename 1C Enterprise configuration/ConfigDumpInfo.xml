@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.13">
+	<ConfigVersions>
+		<Metadata name="CommonForm.Форма" id="f2d5f30a-672e-48f7-a7e0-ce6886411421" configVersion="a463388bc41efd46b668d4e7a520596c00000000"/>
+		<Metadata name="CommonForm.Форма.Form" id="f2d5f30a-672e-48f7-a7e0-ce6886411421.0" configVersion="21d2a420bf99cb4b88c9f05a0720658d00000000"/>
+		<Metadata name="CommonModule.КоннекторHTTP" id="538fe2a5-4645-4094-911f-bc83293d6984" configVersion="b2d2fae18a46964b875fb1c8323da57f00000000"/>
+		<Metadata name="CommonModule.КоннекторHTTP.Module" id="538fe2a5-4645-4094-911f-bc83293d6984.0" configVersion="aaf8f809d1d954408e33741202ed84ee00000000"/>
+		<Metadata name="CommonPicture.ТинькоффИнвестиции" id="81fa8910-92f1-4193-a4b7-ba96029d3cab" configVersion="744da4d96ca13341a9e4a8560406972e00000000"/>
+		<Metadata name="CommonPicture.ТинькоффИнвестиции.Picture" id="81fa8910-92f1-4193-a4b7-ba96029d3cab.0" configVersion="02614c461eb42146941461eb4dfdffcc00000000"/>
+		<Metadata name="Configuration.Конфигурация" id="cc4cc009-12ad-46d9-8916-4b438c82558a" configVersion="f271a96768ec02479853e2599adf512100000000"/>
+		<Metadata name="Configuration.Конфигурация.ClientApplicationInterface" id="36dc7182-96e7-41bb-829e-c3ccda78f381.b" configVersion="c4ef85da261a474e82ca883e2eb815ab00000000"/>
+		<Metadata name="Configuration.Конфигурация.HomePageWorkArea" id="36dc7182-96e7-41bb-829e-c3ccda78f381.8" configVersion="fa20fdaad22650439586a64c9f766c6500000000"/>
+		<Metadata name="Language.Русский" id="613992b0-f08f-410e-b51a-6d0ca89ffd01" configVersion="d67b15be94f85f4da42f22306bad558300000000"/>
+		<Metadata name="Style.Основной" id="4ed1acff-f735-4847-801a-5d6f298f1839" configVersion="620a95071c52d641831409b06e07efda00000000"/>
+		<Metadata name="Style.Основной.Style" id="4ed1acff-f735-4847-801a-5d6f298f1839.0" configVersion="239d1c04db0b5b4f9b607260ecd43b0900000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
